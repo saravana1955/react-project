@@ -10,7 +10,6 @@ root.render(
     <App />
   </React.StrictMode>
 );
-
 const config = {
   scope: "/",
   registerOptions: {
